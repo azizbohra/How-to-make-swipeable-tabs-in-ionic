@@ -1,6 +1,5 @@
 # How-to-make-swipeable-tabs-in-ionic
 
-
 Have you ever come across this feature if yes then this article is for you. In this article i will show you how to make swipeable tabs in ionic. To achieve this we will use two ionic component one is ionic tabs & other is ionic slides. As we know tab are used to switch views & ionic slides has swipeable feature by default. So, we will combine the feature of both the component & will make one new component. By default the ionic tab is used to fetch the views keeping tabs as a abstract view but we will not use this technique. We will only use the user interface of tab.
 
 1. Steps to acheive this feature
@@ -15,6 +14,4 @@ Have you ever come across this feature if yes then this article is for you. In t
 
 #### To remove bouncing effect from ion-slide-box directive use bounce="false",  although this is not listed in official documentation but it is available in directive scope
 
-#### If you have any query kindly comment below in comment box
-
-#### Note: I am not sharing my css styles here, its up to you how you want your design to be. Write your own css for header, tabs & slide box 
+#### Note: I am not sharing my css styles here, its up to you how you want your design to be. Write your own css for header, tabs & slide box
