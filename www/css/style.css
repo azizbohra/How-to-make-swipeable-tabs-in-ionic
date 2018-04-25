@@ -1,1 +1,13 @@
 /* Empty. Add your own CSS if you like */
+
+/* accommodate tabs height */
+
+.has-tabs-bottom {
+  margin-bottom: 48px;
+}
+
+/* adjust container heights to fill container */
+
+.container .scroll, .container .slider {
+  height: 100%;
+}
